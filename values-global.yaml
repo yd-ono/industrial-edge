@@ -10,7 +10,7 @@ global:
     installPlanApproval: Automatic
 
   imageregistry:
-    account: redhat
+    account: yono
     hostname: quay.io
     type: quay
 
